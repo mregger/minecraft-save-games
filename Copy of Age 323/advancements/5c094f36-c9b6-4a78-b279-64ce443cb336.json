@@ -1,0 +1,73 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-08-21 15:36:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-02-22 13:51:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-02-22 13:51:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-02-22 13:51:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-08-21 15:36:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-02-22 13:51:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-08-21 15:36:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-02-22 13:51:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-02-22 13:51:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2019-08-21 15:36:04 -0700",
+      "minecraft:forest": "2019-08-21 15:38:00 -0700",
+      "minecraft:taiga": "2019-08-21 15:38:03 -0700",
+      "minecraft:taiga_hills": "2019-08-21 15:40:51 -0700",
+      "minecraft:birch_forest": "2019-08-21 15:38:57 -0700",
+      "minecraft:dark_forest": "2019-08-21 15:39:19 -0700",
+      "minecraft:river": "2019-08-21 15:37:57 -0700",
+      "minecraft:birch_forest_hills": "2019-08-21 15:39:04 -0700",
+      "minecraft:wooded_hills": "2019-08-21 15:39:11 -0700",
+      "minecraft:swamp": "2019-08-21 15:39:16 -0700",
+      "minecraft:plains": "2019-08-21 15:38:04 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

@@ -1,0 +1,29 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2018-10-06 13:31:46 -0300",
+      "iron_chestplate": "2018-10-06 13:31:46 -0300",
+      "iron_leggings": "2018-10-06 13:31:46 -0300",
+      "iron_helmet": "2018-10-06 13:31:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2018-10-06 13:31:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-10-06 13:31:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2018-10-06 13:31:47 -0300"
+    },
+    "done": false
+  }
+}
